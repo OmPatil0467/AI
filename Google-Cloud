@@ -21,6 +21,8 @@ then 'cltr + o' and 'cltr + x'
 
 gcloud app deploy
 
+gcloud app browse
+
 link will be generated
 
 
@@ -33,6 +35,7 @@ link will be generated
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 cd python-docs-samples/appengine/flexible/hello_world
 gcloud app deploy
+gcloud app browse
 
 
 
