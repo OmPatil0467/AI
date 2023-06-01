@@ -1,0 +1,40 @@
+Create Project
+
+Open Serverles -> App Engine Dashboard
+
+Click on Create Application
+
+Select Region, Language, Environment -----All default
+
+Click on Activate Cloud Shell
+
+Paste below links one by one:
+'git clone https://github.com/GoogleCloudPlatform/python-docs-samples'
+'cd python-docs-samples/appengine/standard_python3/hello_world'
+
+write 'ls' to know available files
+
+write 'nano main.py'
+
+You can edit retun statement
+then 'cltr + o' and 'cltr + x'
+
+gcloud app deploy
+
+link will be generated
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+cd python-docs-samples/appengine/flexible/hello_world
+gcloud app deploy
+
+
+
+
+
